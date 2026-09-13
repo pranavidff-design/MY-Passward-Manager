@@ -1,0 +1,16 @@
+{
+  "name": "keepstone-vault",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Keepstone secure vault, packaged as an Android app with Capacitor",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "appId": "com.keepstone.vault",
+  "appName": "Keepstone",
+  "webDir": "www",
+  "backgroundColor": "#F7F8FC",
+  "android": {
+    "allowMixedContent": false
+  }
+}
